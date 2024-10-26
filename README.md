@@ -1,7 +1,5 @@
 # _Привет я YaroslavPe1_
 
-
-_________
 >[!NOTE]
 >## **С чем я работаю** 
 >
@@ -12,7 +10,6 @@ _________
 > ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 > ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-_________
 >[!NOTE]
 >## **мой основной проект:**
 >
@@ -20,6 +17,5 @@ _________
 >
 >
 > [![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
-_________
 
 
