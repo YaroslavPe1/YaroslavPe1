@@ -1,10 +1,10 @@
 >[!NOTE]
 >[Читать на русском](https://github.com/YaroslavPe1/YaroslavPe1/blob/main/READMERUS.md)
 
-# _Привет я YaroslavPe1_
+# _Hello, I am YaroslavPe1_
 
 >[!NOTE]
->## **С чем я работаю:**
+>## **What I work with:**
 >
 > ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 > ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -13,44 +13,44 @@
 > ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 > ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
->## **Мой основной проект:**
 >
->![иконка](/icon/icon128.png)
+>## **My main project:**
+>
+>![icon](/icon/icon128.png)
 >
 >
-> [![  Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
-
+> [![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
 
 >[!NOTE]
-> ## **Планы:** 
-> - [ ] Сделать полностью рабочую виртуальную машину.
-> - [ ] Сформировать комьюнити на YouTube.
-> - [ ] Сделать инструментарий для разработки на языке Ryslang.
-> - [ ] Составить документацию для разработчика.
+> ## **Plans:** 
+> - [ ] Create a fully functional virtual machine.
+> - [ ] Build a community on YouTube.
+> - [ ] Develop a toolkit for Ryslang development.
+> - [ ] Create documentation for developers.
 >
 > 
 >
 
 >[!NOTE]
-> ## **Цели:**
-> - Обеспечить максимальную скорость разработки программ;
-> - Изменить принцип программирования;
-> - Сделать разработку языков простой;
-> - Поддержка библиотек из C++ и Java;
-> - Сделать отладку кода ещё удобней;
-> - Кроссплатформенность;
-> - Профессиональная среда разработки со всем необходимым.
-
+> ## **Goals:**
+> - Ensure maximum development speed;
+> - Transform programming principles;
+> - Simplify language development;
+> - Support C++ and Java libraries;
+> - Make debugging even more convenient;
+> - Cross-platform compatibility;
+> - Provide a professional development environment with all essentials.
 
 > [!CAUTION]
 > 
-> Проект RVM не в стабильном состоянии, все версии, выложенные до первой LTS, не являются рабочими и стабильными, используйте на свой страх и риск.
+> The RVM project is not in a stable state. All versions released before the first LTS are not stable and fully operational—use at your own risk.
 > 
-> Beta-версии могут быть нестабильны, учтите при установке.
+> Beta versions may be unstable; please keep this in mind before installation.
 > 
-> Используйте LTS-версии для стабильности.
+> Use LTS versions for stability.
 
 >[!NOTE]
-> ## **Соавторы:**
+> ## **Co-authors:**
 >[@OLYAPET](https://github.com/OLYAPET) [@lianob](https://github.com/lianob)
+
 
