@@ -1,7 +1,7 @@
 # _Привет я YaroslavPe1_
 
 >[!NOTE]
->## **С чем я работаю** 
+>## **С чем я работаю:**
 >
 > ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 > ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -18,3 +18,10 @@
 > [![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
 
 
+>[!NOTE]
+> ## **Мои планы:** 
+> - [ ] Сделать полностью рабочую виртуальную машину.
+> - [ ] Сформировать комьюнити на YouTube.
+> - [ ] Сделать инструментарий для разработки на языке Ryslang.
+> - [ ] Составить документацию для разработчика.
+>
