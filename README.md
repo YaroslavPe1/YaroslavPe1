@@ -46,3 +46,8 @@
 > Beta-версии могут быть нестабильны, учтите при установке.
 > 
 > Используйте LTS-версии для стабильности.
+
+>[!NOTE]
+> ## **Соавторы:**
+>[@OLYAPET](https://github.com/OLYAPET) [@lianob](https://github.com/lianob)
+
