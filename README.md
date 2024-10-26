@@ -11,7 +11,7 @@
 > ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 > ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 >[!NOTE]
->## **мой основной проект:**
+>## **Мой основной проект:**
 >
 >![иконка](/icon/icon128.png)
 >
