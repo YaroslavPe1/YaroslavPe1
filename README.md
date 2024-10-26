@@ -17,8 +17,7 @@ _________
 >![иконка](/icon/icon128.png)
 >
 >
-> <span style="color:black">[**Rylang-RVM**](https://github.com/YaroslavPe1/Rylang-RVM)</span>
-
+> [![Rylang-RVM](https://img.shields.io/badge/Rylang--RVM-black?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavPe1/Rylang-RVM)
 _________
 
 
