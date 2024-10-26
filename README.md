@@ -2,6 +2,7 @@
 
 
 _________
+>[!NOTE]
 >## **С чем я работаю** 
 >
 > ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -12,6 +13,7 @@ _________
 > ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 > ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 _________
+>[!NOTE]
 >## **мой основной проект:**
 >
 >![иконка](/icon/icon128.png)
